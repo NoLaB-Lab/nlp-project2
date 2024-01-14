@@ -1,3 +1,9 @@
+# Mac files
+.DS_Store
+
+# Test
+notebooks/rs-scratch.ipynb
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
